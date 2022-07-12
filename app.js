@@ -27,7 +27,7 @@ function handleFormData(e) {
     }
 
     console.log('dataObject', dataObject);
-    alert('form sent');
+    // alert('form sent');
 
     // insert your code to process the formData here
 }
