@@ -726,7 +726,7 @@ a:not(.button):not(.navigation-button):hover {
     }
 
     .footer {
-        text-align: left;
+        text-align: center;
     }
     
     .footer .container {
@@ -734,7 +734,7 @@ a:not(.button):not(.navigation-button):hover {
     }
 
     .socials {
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .sticky {
